@@ -1,5 +1,9 @@
 
 /* Navbar container */
+*{
+    margin: 0;
+    padding: 0;
+}
 .custom-navbar {
     display: flex;
     justify-content: space-between;
